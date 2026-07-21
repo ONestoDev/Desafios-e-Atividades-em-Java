@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		var scanner = new Scanner(System.in);
-		System.out.print("Informe oo primeiro número: ");
+		System.out.print("Informe o primeiro número: ");
 		var numero1 = scanner.nextInt();
 		System.out.print("Informe o segundo número: ");
 		var numero2 = scanner.nextInt();
