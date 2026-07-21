@@ -10,5 +10,5 @@ public class Main {
 		var numero2 = scanner.nextInt();
 		System.out.printf("%s + %s = %s%n", numero1, numero2, numero1 + numero2);
 	}
-
+scanner.close();
 }
